@@ -1,0 +1,13 @@
+train: C:/crack_project/train_augmented3/images
+val: C:/crack_project/valid/images
+test: C:/crack_project/test/images
+
+nc: 1
+names: ['crack']
+
+roboflow:
+  workspace: underwater-concrete-crack-detection-bg23g
+  project: underwater-concrete-crack-6ahb2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/underwater-concrete-crack-detection-bg23g/underwater-concrete-crack-6ahb2/dataset/2
