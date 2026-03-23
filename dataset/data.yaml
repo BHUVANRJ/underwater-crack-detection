@@ -1,6 +1,6 @@
-train: C:/crack_project/train_augmented3/images
-val: C:/crack_project/valid/images
-test: C:/crack_project/test/images
+train: C:/crack_project/dataset/train_augmented/images
+val: C:/crack_project/dataset/valid/images
+test: C:/crack_project/dataset/test/images
 
 nc: 1
 names: ['crack']
